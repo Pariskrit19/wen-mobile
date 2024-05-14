@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159819952324",
+    "project_id": "expo-notification-6abad",
+    "storage_bucket": "expo-notification-6abad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159819952324:android:c1730935cdfa331b729991",
+        "android_client_info": {
+          "package_name": "com.wen.wenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159819952324-rpveg9g2phu3d25ii0r0465cv2sfnh5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI4lYiaBp1twyj33fgx1ohFnuBnHDDTY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159819952324-rpveg9g2phu3d25ii0r0465cv2sfnh5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
